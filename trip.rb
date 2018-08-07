@@ -21,7 +21,7 @@ gets.chomp.capitalize
 
 puts "Let's plan your trip! Where would you like to stay?" 
 location = gets.chomp.capitalize
-
+puts "Where would you like to eat?"
 
  
 

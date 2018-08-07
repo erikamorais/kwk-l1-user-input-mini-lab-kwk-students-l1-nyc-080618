@@ -21,8 +21,4 @@ gets.chomp.capitalize
 
 puts "Let's plan your trip! Where would you like to stay?" 
 
-puts "Where would you like to eat?"
-
- 
-
 

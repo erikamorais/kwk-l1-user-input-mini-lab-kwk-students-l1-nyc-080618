@@ -16,3 +16,4 @@ stay = gets.chomp.capitalize  #don't forget to Capitilize the input
 puts "Let's plan your trip! Where would you like to stay?"
 gets.chomp.capitalize
 
+

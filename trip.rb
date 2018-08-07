@@ -17,3 +17,5 @@ puts "Let's plan your trip! Where would you like to stay?"
 gets.chomp.capitalize
 
 
+puts "Let's plan your trip! Where would you like to stay?"
+
